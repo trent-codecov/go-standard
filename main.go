@@ -10,7 +10,6 @@ func UncoveredIf(a bool) bool {
 	return true
 }
 
-
 func FullyCovered() bool {
 	return true
 }
