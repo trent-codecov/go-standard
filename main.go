@@ -6,7 +6,6 @@ func UncoveredIf(a bool) bool {
 	if a {
 		return false
 	}
-	
 	// I'm also a comment
 	return true
 }
