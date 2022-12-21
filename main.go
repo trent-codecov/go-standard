@@ -10,7 +10,9 @@ func UncoveredIf(a bool) bool {
 	// I'm also a comment
 	return true
 }
-
+func LessCovered() bool {
+        return false
+}
 func FullyCovered() bool {
 	return true
 }
